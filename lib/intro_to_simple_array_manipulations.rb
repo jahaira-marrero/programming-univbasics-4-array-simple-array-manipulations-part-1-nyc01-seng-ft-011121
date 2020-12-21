@@ -19,5 +19,5 @@ def using_shift(array)
 end
 
 def using_shift_args(array)
-  array.shift(2)
+  brands_removed = using_shift_args.shift(2)
 end
