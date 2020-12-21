@@ -18,6 +18,6 @@ def using_shift(array)
   first_element = array.shift 
 end
 
-def using_shift_args(array)
-  brands_removed = using_shift_args.shift(2)
+def using_shift_args(brands)
+  brands_removed = brands.shift(2)
 end
