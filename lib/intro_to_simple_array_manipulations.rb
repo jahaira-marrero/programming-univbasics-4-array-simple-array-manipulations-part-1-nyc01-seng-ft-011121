@@ -19,5 +19,5 @@ def using_shift(array)
 end
 
 def using_shift_args(array)
-  using_shift_args = array.shift(2)
+  elements_removed = array.shift(2)
 end
